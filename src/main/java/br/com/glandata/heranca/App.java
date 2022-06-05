@@ -15,7 +15,7 @@ public class App {
 		dev.setIdade(30);
 		dev.setEndereco("Rua dos Bobos, no 0");
 		
-		Gerente gerente = new Gerente(123, "Nelson");
+		Gerente gerente = new Gerente(1234, "Nelson");
 		//gerente.setNome("Nelson");
 		//gerente.setRegistro(12345);
 		gerente.setSalario(2000.00f);
